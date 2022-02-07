@@ -1,3 +1,5 @@
+Simple weather app to fetch data from api and display. You can also search for a desired location
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
