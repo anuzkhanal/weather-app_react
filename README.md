@@ -1,4 +1,4 @@
-simple weather app to fecth data from api and display. you can also search for the desired location
+Simple weather app to fetch data from api and display. You can also search for a desired location
 
 # Getting Started with Create React App
 
